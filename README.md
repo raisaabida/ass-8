@@ -1,16 +1,55 @@
-# React + Vite
+🚀 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Game App Explorer is a modern web application where users can browse, search, install, uninstall, and explore detailed information about various apps and games.
+It also integrates with GitHub login, allowing users to connect their GitHub account for personalized features.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+✨ Features
+🔍 Search Any App
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Instantly search for apps from the list.
 
-## Expanding the ESLint configuration
+Filters results in real-time.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📥 Install & Uninstall Apps
+
+Install an app with one click.
+
+Uninstall it anytime.
+
+Installation state is saved locally (LocalStorage / Database).
+
+📄 View Full App Details
+
+Each app contains:
+
+App name
+
+Company
+
+Category
+
+Rating
+
+Reviews
+
+App size
+
+Full description
+
+App screenshots
+
+👤 GitHub Authentication
+
+Users can log in using GitHub OAuth.
+
+Personalized dashboard after login.
+
+Saves installed apps per user session.
+
+📱 Responsive UI
+
+Fully mobile-friendly.
+
+Built using modern UI frameworks (React + Tailwind).
