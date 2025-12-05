@@ -38,7 +38,10 @@ export default function AppDetails(){
     <main className="max-w-5xl mx-auto p-6 space-y-6">
       <ToastContainer />
 
+
+
       {/* HEADER CARD */}
+      
       <div className="bg-white border rounded-xl shadow p-6">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
           <div>
