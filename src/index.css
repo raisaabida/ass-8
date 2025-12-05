@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@keyframes slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
+
+
+html,body,#root{height:100%}
+body{min-height:100%;}
