@@ -32,13 +32,10 @@ App screenshots
 👤 GitHub Authentication
 
 Users can log in using GitHub OAuth.
-
 Personalized dashboard after login.
-
 Saves installed apps per user session.
 
 📱 Responsive UI
 
 Fully mobile-friendly.
-
 Built using modern UI frameworks (React + Tailwind).
