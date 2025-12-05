@@ -9,15 +9,12 @@ It also integrates with GitHub login, allowing users to connect their GitHub acc
 🔍 Search Any App
 
 Instantly search for apps from the list.
-
 Filters results in real-time.
 
 📥 Install & Uninstall Apps
 
 Install an app with one click.
-
 Uninstall it anytime.
-
 Installation state is saved locally (LocalStorage / Database).
 
 📄 View Full App Details
