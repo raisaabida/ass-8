@@ -20,21 +20,13 @@ Installation state is saved locally (LocalStorage / Database).
 📄 View Full App Details
 
 Each app contains:
-
 App name
-
 Company
-
 Category
-
 Rating
-
 Reviews
-
 App size
-
 Full description
-
 App screenshots
 
 👤 GitHub Authentication
