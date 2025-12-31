@@ -35,6 +35,9 @@ Users can log in using GitHub OAuth.
 Personalized dashboard after login.
 Saves installed apps per user session.
 
+## Live link:
+hurt-apple1234.surge.sh
+
 📱 Responsive UI
 
 Fully mobile-friendly.
